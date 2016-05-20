@@ -10,6 +10,7 @@ public class InteractRunner{
 
 	public static void main(String[] arg) {
 		Scanner reader = new Scanner (System.in);
+		
 		try {
 			Calculator calc = new Calculator();
 			ArrayList<Integer> list = new ArrayList<Integer>();
