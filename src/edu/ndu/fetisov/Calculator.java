@@ -8,7 +8,7 @@ public class Calculator{
 */
 
 	private int result, resultDob;
-	int i;
+	int j,i, i1;
 	float resultDiv;
 /**
 	������ ���������.
